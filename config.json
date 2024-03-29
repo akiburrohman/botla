@@ -4,7 +4,7 @@
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
+    "autoClean": true,
     "adminOnly": false,
     "keyAdminOnly": "",
     "commandDisabled": [
@@ -25,40 +25,40 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝙲𝚑𝚒𝚗𝚐𝚊𝚛𝚒🔥",
-    "PREFIX": "+",
+    "BOTNAME": "Botla🔥",
+    "PREFIX": "/",
     "OTHERBOT": [
-        ""
+        "100033855159090"
     ],
     "UNSENTVIP": [
-        "100038374310301",
-        "100089747292304",
-        "100057959767370",
+        "100033855159090",
+        "100033855159090",
+        "100033855159090",
         "",
         "",
-        "100086141860679",
-        "100086141860679"
+        "100033855159090",
+        "100033855159090"
     ],
     "GOD": [
-        "100040426712109",
-        "100089747292304",
-        "100057959767370"
+        "100033855159090",
+        "100033855159090",
+        "100033855159090"
     ],
     "ADMINBOT": [
-        "100040426712109",
+        "100033855159090",
         "",
         "",
         "",
         "",
         "",
         "",
-        "100064584243077",
-        "100093221656574"
+        "100033855159090",
+        "100033855159090"
     ],
     "OWNER": "ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒",
     "AGE": "21",
     "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301",
+    "FACEBOOK": "https://https://www.facebook.com/akibur.rohman.315",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
